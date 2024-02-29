@@ -1,0 +1,10 @@
+matplotlib==3.6.0
+munkres==1.1.4
+numpy==1.21.5
+Pillow==9.2.0
+pyro==3.16
+pyro_ppl==1.8.0
+scikit_learn==1.1.2
+scipy==1.7.3
+tensorboardX==2.5.1
+torch==1.12.1
